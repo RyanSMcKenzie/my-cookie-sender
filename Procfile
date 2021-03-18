@@ -1,1 +1,1 @@
-web: gunicorn app:cookies
+web: gunicorn cookies:app
